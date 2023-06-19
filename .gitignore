@@ -5,6 +5,7 @@
 *.pyo
 env/
 env*
+myenv/
 dist/
 build/
 *.egg
